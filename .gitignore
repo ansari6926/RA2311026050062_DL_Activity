@@ -1,14 +1,7 @@
-# Python
+.venv/
 __pycache__/
 *.py[cod]
-*$py.class
-*.pth
-.ipynb_checkpoints/
-
-# Virtual Environment
-venv/
-.env/
-
-# Large raw dataset archive (the notebook loads directly or downloads via kagglehub)
-dataset/
-*.zip
+data/
+runs/
+.idea/
+.vscode/
